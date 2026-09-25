@@ -1,0 +1,6 @@
+{
+  "name": "Ohtli 2.0",
+  "description": "Estrategia de capacitación en investigación del IMSS para residentes, docentes y directivos.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
